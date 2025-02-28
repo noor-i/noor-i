@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 A passionate Computer Science graduate exploring full-stack development, AI integration, and database management. I love experimenting with AI in web applications and am currently building projects with technologies like React, Next.js, Node.js, AWS,  and AI models. Always eager to learn, grow, and collaborate. 
 
-*Non-technical skills & hobbies: making mean matcha lattes, gardening, and hiking.* 🍵🪴🦋
-
-
 
 Programming Languages: <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />

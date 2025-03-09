@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A passionate Computer Science graduate exploring full-stack development, AI integration, and database management. I love experimenting with AI in web applications and am currently building projects with technologies like React, Next.js, Node.js, AWS,  and AI models. Always eager to learn, grow, and collaborate. 
+I am currently working with full-stack development, AI integration, and database management. I love experimenting with AI in web applications and am currently building projects with technologies like React, Next.js, Node.js, AWS,  and AI models. Always eager to learn, grow, and collaborate. 
 
 
 Programming Languages: <div align="left">
